@@ -1,0 +1,13 @@
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\bin\Debug\netcoreapp3.1\foreashlendoarray.exe
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\bin\Debug\netcoreapp3.1\foreashlendoarray.deps.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\bin\Debug\netcoreapp3.1\foreashlendoarray.runtimeconfig.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\bin\Debug\netcoreapp3.1\foreashlendoarray.runtimeconfig.dev.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\bin\Debug\netcoreapp3.1\foreashlendoarray.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\bin\Debug\netcoreapp3.1\foreashlendoarray.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\obj\Debug\netcoreapp3.1\foreashlendoarray.csprojAssemblyReference.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\obj\Debug\netcoreapp3.1\foreashlendoarray.csproj.CoreCompileInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\obj\Debug\netcoreapp3.1\foreashlendoarray.AssemblyInfoInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\obj\Debug\netcoreapp3.1\foreashlendoarray.AssemblyInfo.cs
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\obj\Debug\netcoreapp3.1\foreashlendoarray.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\obj\Debug\netcoreapp3.1\foreashlendoarray.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\foreashlendoarray\obj\Debug\netcoreapp3.1\foreashlendoarray.genruntimeconfig.cache
